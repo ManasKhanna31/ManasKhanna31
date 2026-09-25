@@ -89,7 +89,7 @@
 
 AI-powered **Cyber Threat Intelligence Platform**.
 
-**Tech:** FastAPI • MySQL • Groq LLM • RAG • MITRE ATT&CK
+**Tech:** FastAPI • RAG • LLMs • MySQL • Cybersecurity
 
 <a href="https://github.com/ManasKhanna31/ThreatLens-AI">
 View Repository →
@@ -101,7 +101,7 @@ View Repository →
 
 ### ⚔️ AI War Room
 
-AI-powered platform for **threat analysis, intelligence and security decision support**.
+AI-powered **cybersecurity intelligence and threat analysis platform**.
 
 **Tech:** Python • AI/ML • LLMs • Cybersecurity
 
@@ -117,45 +117,13 @@ View Repository →
 
 ### 🔐 Sensitive Data Detection & Compliance Assistant
 
-AI-powered application for detecting and classifying sensitive information.
+AI-powered application for **detecting sensitive information and assessing compliance risk**.
 
 **Tech:** Python • NLP • Streamlit • AI
 
 <a href="https://github.com/ManasKhanna31/Sensitive-Data-Detection-Compliance-Assistant">
 View Repository →
 </a>
-
-</td>
-
-<td width="50%">
-
-### ⚛️ Hybrid Quantum Fake News Detection
-
-Exploring hybrid quantum-classical approaches for fake news classification.
-
-**Tech:** Python • Qiskit • Machine Learning • NLP
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏢 SocietyHub
-
-Society management platform for handling community operations.
-
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI/ML Projects
-
-Exploring **LLMs, RAG, NLP, Transformers, embeddings and intelligent automation**.
-
-**Focus:** Generative AI • Agentic AI • Machine Learning
 
 </td>
 </tr>
