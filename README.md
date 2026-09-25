@@ -126,6 +126,20 @@ View Repository →
 </a>
 
 </td>
+
+<td width="50%">
+
+### 📱 SMS Classification — XLM-RoBERTa
+
+Multilingual **SMS classification system using XLM-RoBERTa**.
+
+**Tech:** Python • NLP • Transformers • XLM-RoBERTa
+
+<a href="https://github.com/ManasKhanna31/SMS_classification_XLM-Roberta">
+View Repository →
+</a>
+
+</td>
 </tr>
 </table>
 
