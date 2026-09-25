@@ -99,6 +99,22 @@ View Repository →
 
 <td width="50%">
 
+### ⚔️ AI War Room
+
+AI-powered platform for **threat analysis, intelligence and security decision support**.
+
+**Tech:** Python • AI/ML • LLMs • Cybersecurity
+
+<a href="https://github.com/ManasKhanna31/AI-War-Room">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🔐 Sensitive Data Detection & Compliance Assistant
 
 AI-powered application for detecting and classifying sensitive information.
@@ -110,9 +126,7 @@ View Repository →
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### ⚛️ Hybrid Quantum Fake News Detection
@@ -122,7 +136,9 @@ Exploring hybrid quantum-classical approaches for fake news classification.
 **Tech:** Python • Qiskit • Machine Learning • NLP
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### 🏢 SocietyHub
@@ -132,10 +148,18 @@ Society management platform for handling community operations.
 **Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
 </td>
+
+<td width="50%">
+
+### 🤖 AI/ML Projects
+
+Exploring **LLMs, RAG, NLP, Transformers, embeddings and intelligent automation**.
+
+**Focus:** Generative AI • Agentic AI • Machine Learning
+
+</td>
 </tr>
 </table>
-
----
 
 # 📚 Core Knowledge
 
