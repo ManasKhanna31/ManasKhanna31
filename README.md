@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:7F00FF&height=180&section=header&text=Manas%20Khanna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h2>👋 AI/ML Engineer • Generative AI • Data Engineering</h2>
+## 👋 Aspiring AI/ML Engineer • Data Engineer • Software Engineer
 
 <p>
 Building intelligent systems with
