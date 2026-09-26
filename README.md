@@ -187,35 +187,7 @@ Multilingual SMS classification using <b>XLM-RoBERTa</b> and transformer-based N
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManasKhanna31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKhanna31&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ManasKhanna31&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ManasKhanna31/ManasKhanna31/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 📚 Core Knowledge
 
