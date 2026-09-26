@@ -31,6 +31,8 @@ Building intelligent systems with
 
 🎓 **B.E. Artificial Intelligence & Machine Learning**
 
+🚀 **Aspiring AI/ML & Data Engineer** passionate about building intelligent systems and eager to learn, contribute, and grow in **AI/ML, Generative AI, Data Engineering, and Software Engineering.**
+
 🤖 Building with **Machine Learning, Generative AI, LLMs & NLP**
 
 🧠 Exploring **RAG, Transformers, Embeddings & Agentic AI**
