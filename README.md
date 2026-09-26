@@ -1,22 +1,27 @@
 <div align="center">
 
-# 👋 Hi, I'm Manas Khanna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:7F00FF&height=180&section=header&text=Manas%20Khanna&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### AI/ML Engineer • Generative AI • Data Engineering
+<h2>👋 AI/ML Engineer • Generative AI • Data Engineering</h2>
 
 <p>
-  <a href="https://github.com/ManasKhanna31">
-    <img src="https://img.shields.io/badge/GitHub-ManasKhanna31-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/manas-khanna-54a755241/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:manaskhanna.3112004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+Building intelligent systems with
+<b>AI • ML • LLMs • RAG • Data Engineering • Backend</b>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;AI+%7C+ML+%7C+GenAI+%7C+RAG;Data+Engineering+%7C+Backend+Engineering;Turning+Ideas+into+Production+Systems" />
+<p>
+<a href="https://github.com/ManasKhanna31">
+<img src="https://img.shields.io/badge/GitHub-ManasKhanna31-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/manas-khanna-54a755241/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:manaskhanna.3112004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00AEEF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;AI+%7C+ML+%7C+GenAI+%7C+RAG;LLMs+%7C+NLP+%7C+Agentic+AI;Data+Engineering+%7C+Backend;Turning+Ideas+into+Production+Systems"/>
 
 </div>
 
@@ -26,23 +31,38 @@
 
 🎓 **B.E. Artificial Intelligence & Machine Learning**
 
-🤖 Passionate about **Machine Learning, Generative AI, LLMs and NLP**
+🤖 Building with **Machine Learning, Generative AI, LLMs & NLP**
 
-🧠 Building applications using **RAG, Transformers, Embeddings and Agentic AI**
+🧠 Exploring **RAG, Transformers, Embeddings & Agentic AI**
 
-📊 Interested in **Data Engineering, Data Analytics and scalable data pipelines**
+📊 Interested in **Data Engineering, Analytics & scalable pipelines**
 
-⚙️ Building backend systems with **FastAPI, PostgreSQL, MySQL and Docker**
+⚙️ Developing backend systems with **FastAPI, PostgreSQL, MySQL & Docker**
 
-💻 Strong foundation in **DSA, DBMS, OS and OOP**
+💻 Strong foundation in **DSA, DBMS, OS & OOP**
 
-🔬 Exploring **AI research, Quantum ML and intelligent security systems**
+🔬 Exploring **Quantum ML, AI Research & Intelligent Security Systems**
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ What I Build
 
-### 👨‍💻 Programming
+<div align="center">
+
+| 🤖 AI / ML | 🧠 GenAI | 📊 Data | ⚙️ Backend |
+|:---:|:---:|:---:|:---:|
+| ML Models | LLM Applications | ETL Pipelines | FastAPI |
+| NLP Systems | RAG | Data Engineering | REST APIs |
+| Transformers | Agentic AI | SQL | Docker |
+| Deep Learning | Embeddings | Analytics | PostgreSQL |
+
+</div>
+
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php" />
@@ -54,19 +74,22 @@
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-`Machine Learning` `Deep Learning` `NLP` `Transformers` `LLMs`
-`Generative AI` `RAG` `Embeddings` `Vector Databases`
-`LangChain` `LangGraph` `Hugging Face` `Reinforcement Learning`
-`Prompt Engineering` `Qiskit`
+<p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge"/>
+</p>
 
-### 🗄️ Data Engineering & Databases
+### 🗄️ Data Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-`ETL` `Data Pipelines` `SQL` `PostgreSQL` `MySQL`
-`MongoDB` `Redis` `Data Analytics`
+`ETL` `Data Pipelines` `SQL` `Data Analytics` `CDC` `Batch Processing`
 
 ### ⚙️ Backend & DevOps
 
@@ -74,8 +97,7 @@
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,aws" />
 </p>
 
-`FastAPI` `REST APIs` `Docker` `Git`
-`CI/CD` `MLOps`
+`REST APIs` `CI/CD` `MLOps` `Microservices`
 
 ---
 
@@ -83,79 +105,136 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🛡️ ThreatLens-AI
+<h3>🛡️ ThreatLens-AI</h3>
 
-AI-powered **Cyber Threat Intelligence Platform**.
+AI-powered <b>Cyber Threat Intelligence Platform</b> combining RAG and LLMs for security analysis.
 
-**Tech:** FastAPI • RAG • LLMs • MySQL • Cybersecurity
+<br><br>
 
-<a href="https://github.com/ManasKhanna31/ThreatLens-AI">
-View Repository →
+<b>FastAPI • RAG • LLMs • MySQL</b>
+
+<br><br>
+
+<a href="https://github.com/ManasKhanna31/ThreatLens">
+<img src="https://img.shields.io/badge/View_Project-00AEEF?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### ⚔️ AI War Room
+<h3>⚔️ AI War Room</h3>
 
-AI-powered **cybersecurity intelligence and threat analysis platform**.
+AI-powered <b>cyber & drone defense simulator</b> using reinforcement learning for adaptive threat response.
 
-**Tech:** Python • AI/ML • LLMs • Cybersecurity
+<br><br>
+
+<b>Python • RL • AI/ML • Cybersecurity</b>
+
+<br><br>
 
 <a href="https://github.com/ManasKhanna31/AI-War-Room">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-7F00FF?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🔐 Sensitive Data Detection & Compliance Assistant
+<h3>🔐 Sensitive Data Detection</h3>
 
-AI-powered application for **detecting sensitive information and assessing compliance risk**.
+AI-powered compliance assistant for detecting sensitive information and assessing security risk.
 
-**Tech:** Python • NLP • Streamlit • AI
+<br><br>
+
+<b>Python • NLP • Streamlit • AI</b>
+
+<br><br>
 
 <a href="https://github.com/ManasKhanna31/Sensitive-Data-Detection-Compliance-Assistant">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-00AEEF?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 📱 SMS Classification — XLM-RoBERTa
+<h3>📱 SMS Classification</h3>
 
-Multilingual **SMS classification system using XLM-RoBERTa**.
+Multilingual SMS classification using <b>XLM-RoBERTa</b> and transformer-based NLP.
 
-**Tech:** Python • NLP • Transformers • XLM-RoBERTa
+<br><br>
+
+<b>Python • NLP • Transformers • XLM-R</b>
+
+<br><br>
 
 <a href="https://github.com/ManasKhanna31/SMS_classification_XLM-Roberta">
-View Repository →
+<img src="https://img.shields.io/badge/View_Project-7F00FF?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManasKhanna31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKhanna31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ManasKhanna31&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ManasKhanna31/ManasKhanna31/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
 # 📚 Core Knowledge
 
-```text
-Data Structures & Algorithms
-Object Oriented Programming
-Database Management Systems
-Operating Systems
-Machine Learning
-Deep Learning
-Natural Language Processing
-Generative AI
-Large Language Models
-Retrieval Augmented Generation
-Data Engineering
-Backend Development
-MLOps & CI/CD
+<div align="center">
+
+`DSA` • `OOP` • `DBMS` • `OS` • `Machine Learning` • `Deep Learning`
+
+`NLP` • `Generative AI` • `LLMs` • `RAG` • `Data Engineering`
+
+`Backend Development` • `MLOps` • `CI/CD` • `Quantum ML`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Building intelligent systems, one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00AEEF&height=100&section=footer"/>
+
+</div>
