@@ -47,18 +47,13 @@ Building intelligent systems with
 
 ---
 
-## ⚡ What I Build
+## 🎯 Currently Exploring
 
-<div align="center">
-
-| 🤖 AI / ML | 🧠 GenAI | 📊 Data | ⚙️ Backend |
-|:---:|:---:|:---:|:---:|
-| ML Models | LLM Applications | ETL Pipelines | FastAPI |
-| NLP Systems | RAG | Data Engineering | REST APIs |
-| Transformers | Agentic AI | SQL | Docker |
-| Deep Learning | Embeddings | Analytics | PostgreSQL |
-
-</div>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI, LLMs & RAG
+- 📊 Data Engineering & Data Analytics
+- 💻 Software Engineering & Problem Solving
+- 🔬 AI Research & Emerging Technologies
 
 ---
 
